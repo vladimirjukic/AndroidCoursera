@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Daily Selfie</string>
+    <string name="action_camera">Start Camera</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_cancel_not">Cancel Notification</string>
+
+</resources>
